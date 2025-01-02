@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "9d84",
+      "cityName": "Miravete de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-17T13:06:48.634Z",
+      "notes": "Great place to visit!",
+      "position": {
+        "lat": "40.560198400547065",
+        "lng": "-0.6811523437500001"
+      }
+    },
+    {
+      "id": "45f5",
+      "cityName": "Varadayyapalaiyam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-17T13:07:10.711Z",
+      "notes": "",
+      "position": {
+        "lat": "13.674196362542157",
+        "lng": "79.93652343750001"
+      }
+    }
+  ]
+}
